@@ -71,9 +71,7 @@ This project showcases a real-time data pipeline that streams Amazon sales data 
 
 ## 💡 **Contributions & Support**
 Feel free to contribute, suggest improvements, or raise issues!  
-📧 Contact: **your.email@example.com**
+📧 Contact: **kolusuvandana13@gmail.com**
 
 ---
 
-## 📜 **License**
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
